@@ -1,0 +1,110 @@
+.navhead{
+    background: #19437a;
+    text-align: center;
+    color: white;
+
+}
+
+.iconsb{
+        color: #19437a !important;
+        padding-bottom: 0.8rem;
+}
+
+.farmhouse {
+    font-family: 'Asap', sans-serif;
+    color: #636363;
+    font-size: 17px;
+}
+
+.codefarm{
+    font-size: 40px;
+}
+
+.iconsfarm{
+    font-size: 20px;
+    padding: 8px 10px;
+    background-color: #e3e7ef;
+    border-radius: 50%;
+    color: #19437a !important;
+}
+
+.packages {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.packagesnumber {
+    color: #808fe3;
+    font-size: 18px;
+   
+}
+
+.selectpackages {
+    color: #19437a;
+    font-size: 16px;
+
+}
+
+.selectpackagesnum {
+    color: #19437a;
+    font-size: 12px;
+}
+
+.selectbackg{
+    background-color: white !important;
+
+}
+
+.textgrey{
+   color: #d5d5d5;
+}
+ .textblue{
+   color: #476995;
+ }
+
+ .textred{
+    color: red;
+ }
+
+ .textbold{
+    
+ }
+
+
+.textblue2 {
+    color: #19437a;
+}
+
+
+@media screen and (max-width: 1200px){
+    .textBanner{
+        font-size: 40px;
+    }    
+}
+@media screen and (max-width: 600px) {
+    .textBanner {
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 340px) {
+    .textBanner {
+        font-size: 20px;
+    }
+}
+
+
+
+/* Comentarios
+
+una forma de colocar el banner, directamente en el div
+#banner{
+    min-height: 565px;
+    text-align: center;
+    color: #fff;
+    background-image: url("../imagenes/slide-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+*/
